@@ -1,0 +1,3 @@
+/home/samsepi0l/personalfinancetracker/build/CMakeFiles/finance_tracker.dir
+/home/samsepi0l/personalfinancetracker/build/CMakeFiles/edit_cache.dir
+/home/samsepi0l/personalfinancetracker/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+income 100 salary
+expense 150 groceries
+income 100 salariu
+expense 50 sarmale
